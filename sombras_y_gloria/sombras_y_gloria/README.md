@@ -57,6 +57,7 @@ sombras_y_gloria/
     └── ranking.py
 ```
 
+
 ## Controles
 
 - `A` — Atacar
