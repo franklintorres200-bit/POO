@@ -4,6 +4,7 @@ from constantes import *
 from ui.widgets import Boton
 
 
+
 class EscenaMenu:
     def __init__(self, j):
         self.j = j; cx = ANCHO//2
