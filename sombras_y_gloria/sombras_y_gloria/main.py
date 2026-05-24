@@ -14,7 +14,6 @@ from escenas.escena_combate import EscenaCombate
 from escenas.escena_ranking import EscenaRanking
 from escenas.escena_fin import EscenaCreditos, EscenaPostCombate
 
-
 class Juego:
     def __init__(self):
         pygame.init()
